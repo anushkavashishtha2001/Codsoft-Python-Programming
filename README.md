@@ -1,5 +1,5 @@
-# Codsoft
-Task-1
+# Codsoft Python Programming
+## Task-1
 Password Generator
 Project Name: Password Generator
 
@@ -22,7 +22,7 @@ Commit your changes
 Push your branch
 Create a Pull Request
 
-Task-2
+## Task-2
 Rock-Paper-Scissors Game
 Project Name: Rock-Paper-Scissors Game
 
@@ -50,8 +50,8 @@ Push your branch
 Create a Pull Request
 
 
-Task-3
- Contact Book
+##  Task-3
+Contact Book
 Project Name: Contact Book
 
 Project Description:
